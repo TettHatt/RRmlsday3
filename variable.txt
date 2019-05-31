@@ -1,0 +1,21 @@
+log038_lpcvd_plc_a_190516070146.csv
+Heater PV temperature TOP 
+Heater PV temperature CENTER
+Heater PV temperature BOTTOM
+Tube PV temperature TOP
+Tube PV temperature CENTER
+Tube PV temperature BOTTOM
+
+1MFC gas flow PV
+2MFC gas flow PV
+3MFC gas flow PV
+4MFC gas flow PV
+5MFC gas flow PV
+6MFC gas flow PV
+7MFC gas flow PV
+8MFC gas flow PV
+9MFC gas flow PV
+
+APC control pressure PV
+APC valve condition PV
+
