@@ -1,4 +1,6 @@
 To Okano, Aiuchi
+1. list up variables
+2. formular 1/10 temperatures
 
 log038_lpcvd_plc_a_190516070146.csv
 Heater PV temperature TOP 
